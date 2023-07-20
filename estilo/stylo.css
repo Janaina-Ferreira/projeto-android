@@ -43,7 +43,7 @@ header{
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
     min-height: 150px;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 60px;
     
 }
 
@@ -65,7 +65,7 @@ header>p{
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.404);
 }
 
